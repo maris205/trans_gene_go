@@ -4,6 +4,12 @@ Translate gene sequence into gene ontology terms based on statistical machine tr
 for previous paper:
 https://f1000research.com/articles/2-231
 
+Origin link:
+https://code.google.com/archive/p/dnasearchengine/downloads
+
+some file large than 25M could download from this link
+(gene_translation.zip)
+
 ## Directory list:
 
 1. “data”: parallel corpus for Gene ontology sequence and corresponding amino acid sequence.
